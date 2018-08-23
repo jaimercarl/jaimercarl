@@ -1,0 +1,39 @@
+<style>
+	body {background-color: powderblue; }
+	.myname {
+		color: black;
+		font-size: 50px;
+		text-align: left;
+	}
+	.myheader { 
+		color: black;
+		font-size: 20px;
+		text-align: left;
+		text-decoration: underline;
+		text-transform: capitalize;
+	}
+	.mysubheader {
+		color: black;
+		font-size: 18px;
+		text-align: left;
+	}
+	.bulletpoints {
+		color: black;
+		text-align: left;
+		font-size: 18px;
+		list-style-type: circle;
+		margin-bottom: 10px;
+		}
+	.mytitle {
+		color: black;
+		text-align:left;
+		font-size: 25px;
+		margin-top: 10px
+		}
+	.dates {
+		color: black;
+		text-align:left;
+		font-size: 14px;
+		font-style: italic;
+	}	
+</style>
